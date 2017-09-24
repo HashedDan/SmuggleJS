@@ -1,0 +1,19 @@
+{
+  "name": "smugglejs",
+  "version": "0.1.0",
+  "description": "a javascript library for improving data import processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashedDan/SmuggleJS.git"
+  },
+  "author": "Daniel Mangum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HashedDan/SmuggleJS/issues"
+  },
+  "homepage": "https://github.com/HashedDan/SmuggleJS#readme"
+}
